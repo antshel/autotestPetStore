@@ -4,8 +4,11 @@
 
 ### Используемые технологии
 
-![Python](https://img.shields.io/badge/-Python-2E2E2E?style=for-the-badge&logo=Python&logoColor=3776AB)
+* Python
+* pytest
+* requests
+* REST API
 
-pytest
-requests
-REST API
+### Тестируемый API
+[Swagger Petstore](https://petstore.swagger.io/#/)
+
